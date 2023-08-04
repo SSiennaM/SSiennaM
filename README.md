@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SSiennaM :)
-- 👀 I’m interested in learning more about programming!
-- 🌱 I’ve created small projects using Javascript, HTML, CSS & C++. And I'm currently learning C# and Java.
+- 👋 Hi, I’m Sienna
+- 🌱 I’ve created small projects using Javascript, HTML, CSS, C++, & Unity (C#). And I'm currently learning Java.
 - 💞️ I’m looking to collaborate on small to medium projects that are beginner friendly and challenging.
 
 <!---
